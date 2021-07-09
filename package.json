@@ -1,0 +1,25 @@
+{
+  "name": "page-and-versel-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelsuzin1/page-and-versel-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelsuzin1/page-and-versel-example/issues"
+  },
+  "homepage": "https://github.com/rafaelsuzin1/page-and-versel-example#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
